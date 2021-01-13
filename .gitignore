@@ -1,0 +1,7 @@
+ADrive/
+.ipynb_checkpoints/
+.idea/
+*.log
+*.zip
+behavioural-cloning/Data/IMG/
+behavioural-cloning/simulator/*.zip

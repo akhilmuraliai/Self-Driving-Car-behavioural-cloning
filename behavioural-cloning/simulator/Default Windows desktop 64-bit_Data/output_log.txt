@@ -1,0 +1,111 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     1124 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
+Loading F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
+- Completed reload, in  0.125 seconds
+Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.910200 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: a44 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.323800 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.373400 ms (FindLiveObjects: 0.043500 ms CreateObjectMapping: 0.029000 ms MarkObjects: 0.278900 ms  DeleteObjects: 0.021000 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.626000 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 955.
+Total: 0.494800 ms (FindLiveObjects: 0.070500 ms CreateObjectMapping: 0.029600 ms MarkObjects: 0.364600 ms  DeleteObjects: 0.029500 ms)
+
+Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\System.Xml.dll (this message is harmless)
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.228500 ms
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 1.677500 ms (FindLiveObjects: 0.033700 ms CreateObjectMapping: 0.016500 ms MarkObjects: 0.620300 ms  DeleteObjects: 0.989800 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.902100 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 958.
+Total: 0.771800 ms (FindLiveObjects: 0.079800 ms CreateObjectMapping: 0.034700 ms MarkObjects: 0.631900 ms  DeleteObjects: 0.024400 ms)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.319400 ms
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 1.541800 ms (FindLiveObjects: 0.031100 ms CreateObjectMapping: 0.018800 ms MarkObjects: 0.714200 ms  DeleteObjects: 0.777100 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.591700 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 958.
+Total: 0.696000 ms (FindLiveObjects: 0.079900 ms CreateObjectMapping: 0.033400 ms MarkObjects: 0.561600 ms  DeleteObjects: 0.020400 ms)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.761000 ms
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 435.
+Total: 1.979500 ms (FindLiveObjects: 0.106100 ms CreateObjectMapping: 0.018400 ms MarkObjects: 0.553500 ms  DeleteObjects: 1.300700 ms)
+
