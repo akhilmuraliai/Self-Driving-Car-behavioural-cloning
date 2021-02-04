@@ -5,6 +5,8 @@ from keras.models import load_model
 import base64
 import numpy as np
 import cv2
+import warnings
+warnings.filterwarnings('ignore')
 from PIL import Image
 from io import BytesIO
 # sockets are used to perform real tme communication between a client and a web Server
@@ -20,7 +22,7 @@ app = Flask(__name__)
 # when user visits /home the message is print
 # @app.route('/home')
 # def greetings():
-# 	return 'Message From Flask: Never Give Up!'
+# 	return 'Message From Flask: Never Stop!'
 
 # if __name__ == '__main__':
 # 	app.run(port=4000)

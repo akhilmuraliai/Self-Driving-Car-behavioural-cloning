@@ -6,106 +6,56 @@ Direct3D:
     Vendor:   Intel
     VRAM:     1124 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
-Loading F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
-Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
-Loading F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
-- Completed reload, in  0.125 seconds
-Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\System.dll (this message is harmless)
+Platform assembly: F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
+Loading F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
+- Completed reload, in  0.144 seconds
+Platform assembly: F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\System.dll (this message is harmless)
 OnLevelWasLoaded was found on ReturnToMainMenu
 This message has been deprecated and will be removed in a later version of Unity.
 Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
  
 (Filename:  Line: 375)
 
-Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\Mono.Security.dll (this message is harmless)
-Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: F:\archangel\MyMLprojects\Self Driving Car\behavioural-cloning\simulator\Default Windows desktop 64-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 3.910200 ms
+UnloadTime: 72.425598 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: a44 -> priority: 1 
+  Thread -> id: 2ca0 -> priority: 1 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.323800 ms
+UnloadTime: 13.620000 ms
 
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 419.
-Total: 0.373400 ms (FindLiveObjects: 0.043500 ms CreateObjectMapping: 0.029000 ms MarkObjects: 0.278900 ms  DeleteObjects: 0.021000 ms)
+Total: 0.712800 ms (FindLiveObjects: 0.067600 ms CreateObjectMapping: 0.041300 ms MarkObjects: 0.568100 ms  DeleteObjects: 0.034700 ms)
 
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.626000 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.832001 ms
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 955.
-Total: 0.494800 ms (FindLiveObjects: 0.070500 ms CreateObjectMapping: 0.029600 ms MarkObjects: 0.364600 ms  DeleteObjects: 0.029500 ms)
-
-Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\System.Configuration.dll (this message is harmless)
-Platform assembly: F:\archangel\MOOC-Completed\Autonomous-Driving-Udemy\simulator\Default Windows desktop 64-bit_Data\Managed\System.Xml.dll (this message is harmless)
-Connection Open
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Connection Open
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1570.
+Total: 3.180700 ms (FindLiveObjects: 0.307400 ms CreateObjectMapping: 0.157100 ms MarkObjects: 1.201100 ms  DeleteObjects: 1.512900 ms)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.228500 ms
+UnloadTime: 561.508728 ms
 
-Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 432.
-Total: 1.677500 ms (FindLiveObjects: 0.033700 ms CreateObjectMapping: 0.016500 ms MarkObjects: 0.620300 ms  DeleteObjects: 0.989800 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.902100 ms
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 958.
-Total: 0.771800 ms (FindLiveObjects: 0.079800 ms CreateObjectMapping: 0.034700 ms MarkObjects: 0.631900 ms  DeleteObjects: 0.024400 ms)
-
-Connection Open
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Connection Open
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.319400 ms
-
-Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 432.
-Total: 1.541800 ms (FindLiveObjects: 0.031100 ms CreateObjectMapping: 0.018800 ms MarkObjects: 0.714200 ms  DeleteObjects: 0.777100 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.591700 ms
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 958.
-Total: 0.696000 ms (FindLiveObjects: 0.079900 ms CreateObjectMapping: 0.033400 ms MarkObjects: 0.561600 ms  DeleteObjects: 0.020400 ms)
-
-Connection Open
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Connection Open
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.761000 ms
-
-Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 435.
-Total: 1.979500 ms (FindLiveObjects: 0.106100 ms CreateObjectMapping: 0.018400 ms MarkObjects: 0.553500 ms  DeleteObjects: 1.300700 ms)
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 466.
+Total: 1174.077026 ms (FindLiveObjects: 0.044500 ms CreateObjectMapping: 0.024000 ms MarkObjects: 49.951302 ms  DeleteObjects: 1124.056396 ms)
 

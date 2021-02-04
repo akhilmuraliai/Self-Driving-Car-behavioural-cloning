@@ -4,4 +4,4 @@ ADrive/
 *.log
 *.zip
 behavioural-cloning/Data/IMG/
-behavioural-cloning/simulator/*.zip
+behavioural-cloning/simulator/

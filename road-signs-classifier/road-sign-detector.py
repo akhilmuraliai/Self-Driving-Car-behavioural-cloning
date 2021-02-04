@@ -18,7 +18,7 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
 label = pd.read_csv('german-traffic-signs/signnames.csv')
 classifier = tf.keras.models.load_model('road-sign-classifier.h5')
-test_image = 'test-images/30.png'
+test_image = 'test-images/6.jpg'
 
 ######################## SETTING CAM ########################
 
@@ -30,7 +30,7 @@ threshold = 0.75
 
 font = cv2.FONT_HERSHEY_SIMPLEX
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(test_image)
 cap.set(3, frameWidth)
 cap.set(4, frameHeight)
 cap.set(10, brightness)

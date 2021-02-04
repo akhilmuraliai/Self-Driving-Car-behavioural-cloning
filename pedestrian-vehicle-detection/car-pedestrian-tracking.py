@@ -5,8 +5,8 @@ import cv2
 image_1 = 'test-images/road_1.jpg'
 image_2 = 'test-images/road_2.jpg'
 
-video_1 = 'test-videos/video_1.mp4'
-video_2 = 'test-videos/tesla_full.mp4'
+video_1 = 'test-videos/subject.mp4'
+video_2 = 'test-videos/pedestrians.mp4'
 
 # harrcascade files
 car_file = 'xml/cars.xml' 
@@ -17,7 +17,7 @@ car_tracker = cv2.CascadeClassifier(car_file)
 pedestrian_tracker = cv2.CascadeClassifier(pedestrian_file)
 
 # video object
-video = cv2.VideoCapture(video_2) 
+video = cv2.VideoCapture(video_1) 
 
 while 1 == 1:
 
